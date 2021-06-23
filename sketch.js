@@ -70,7 +70,7 @@ function setup()
 function draw() 
 {
     //console.log(trex.y)
-    background("red");
+    background("white");
     textSize (14)
     text("Score:" + score,30,30)
     
